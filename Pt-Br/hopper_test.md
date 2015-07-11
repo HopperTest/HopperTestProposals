@@ -8,15 +8,15 @@ Espaços abertos são ambientes em que há um esforço coordenado para que seja 
 
 1 - Possuí Código de Conduta com propostas simples? 
 Regras claras definindo o que é ofensivo e o que é desaconselhável falar em ambiente de trabalho, por exemplo:
-*piadas racistas
-*comentários pejorativos ou depreciativos sobre identidade de gênero ou orientação sexual
-*comentários associando capacidade técnica a identidade de gênero ou orientação sexual
-*discriminação mesmo que velada sobre religião
-*discriminação mesmo que velada sobre local de nascimento
++   piadas racistas
++   comentários pejorativos ou depreciativos sobre identidade de gênero ou orientação sexual
++   comentários associando capacidade técnica a identidade de gênero ou orientação sexual
++   discriminação mesmo que velada sobre religião
++   discriminação mesmo que velada sobre local de nascimento
 
 2 - Maternidade/Paternidade não é um problema para a empresa?
-*A empresa é favorável a meios de estender a licença paternidade de 5 dias corridos para pelo menos 15 dias corridos?
-*A empresa é favorável a opção da funcionária de aumentar a licença maternidade até 6 meses — mesmo que seja com mecanismos a combinar?
++   A empresa é favorável a meios de estender a licença paternidade de 5 dias corridos para pelo menos 15 dias corridos?
++   A empresa é favorável a opção da funcionária de aumentar a licença maternidade até 6 meses — mesmo que seja com mecanismos a combinar?
 
 3 - Conta com alguma pessoa para quem as pessoas possam se abrir caso sejam agredidas?
 
