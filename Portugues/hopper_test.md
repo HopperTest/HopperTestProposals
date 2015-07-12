@@ -6,7 +6,7 @@ O objetivo é mapear espaços abertos.
 
 Espaços abertos são ambientes em que há um esforço coordenado para que seja livre de agressões a qualquer pessoa, independente de identidade de gênero, orientação sexual, etnia, religião, etc.
 
-1 - Possuí Código de Conduta com propostas simples? 
+1 - Possui Código de Conduta com propostas simples? 
 Regras claras definindo o que é ofensivo e o que é desaconselhável falar em ambiente de trabalho, por exemplo:
 +   piadas racistas
 +   comentários pejorativos ou depreciativos sobre identidade de gênero ou orientação sexual
@@ -20,14 +20,14 @@ Regras claras definindo o que é ofensivo e o que é desaconselhável falar em a
 
 3 - Conta com alguma pessoa para quem as pessoas possam se abrir caso sejam agredidas?
 
-4 - Possuí regras de contratação transparentes - objetivos e habilidades bem definidos? 
+4 - Possui regras de contratação transparentes - objetivos e habilidades bem definidos? 
 Regras mais objetivas que subjetivas.
 
-5 - Possuí regras de promoção transparentes - objetivos e habilidades bem definidos? 
+5 - Possui regras de promoção transparentes - objetivos e habilidades bem definidos? 
 Regras mais objetivas que subjetivas.
 
-6 - Possuí planos de cargos e salários transparentes - objetivos e habilidades bem definidos? 
+6 - Possui planos de cargos e salários transparentes - objetivos e habilidades bem definidos? 
 Regras mais objetivas que subjetivas.
 
-7 - Possuí projetos educativos para capacitar agressores a conviver com a diversidade?
+7 - Possui projetos educativos para capacitar agressores a conviver com a diversidade?
 
