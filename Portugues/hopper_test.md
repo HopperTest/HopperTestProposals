@@ -17,6 +17,10 @@ Regras claras definindo o que é ofensivo e o que é desaconselhável falar em a
 2 - Maternidade/Paternidade não é um problema para a empresa?
 +   A empresa é favorável a meios de estender a licença paternidade de 5 dias corridos para pelo menos 15 dias corridos?
 +   A empresa é favorável a opção da funcionária de aumentar a licença maternidade até 6 meses — mesmo que seja com mecanismos a combinar?
++	A empresa tem algum programa para reinserir as mulheres em suas funções após a licença maternidade? 
++ 	A empresa cumpre o Art. 396 Decreto Lei 5452/43 da CLT que assegura à mulher, durante a jornada de trabalho, a concessão de dois descansos especiais de trinta minutos cada um para amamentar o próprio filho? 
++ 	A empresa tem auxílio-creche e garante até os cinco anos de idade? (Conforme estabelece a Constituição - Art.7, inc. XXV) 
++ 	Caso a empresa tenha 30 mulheres ou mais: Possui creche em local apropriado? (Conforme prevê a CLT - Art. 389, Decreto Lei 5452/43)
 
 3 - Conta com alguma pessoa para quem as pessoas possam se abrir caso sejam agredidas?
 
