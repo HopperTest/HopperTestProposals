@@ -5,7 +5,7 @@ Hopper Test is a checklist that a company must provide to have a diversity-frien
 
 The goal is to assess enviroments with a coordinated effort to be free from harassment to anyone, regardless of gender identity, sexual orientation, ethnicity, religion, etc.
 
-The questions bellow are the most significant problems that are seen in Brazil (cf. [the Brazilian version](https://github.com/HopperTest/HopperTestProposals/tree/master/Pt-Br)). This is also the first version - the test has much to improve. Please, feel free to adapt it to your country and the reality of your people :).
+The questions bellow are the most significant problems that are seen in Brazil (cf. [the Brazilian version](https://github.com/HopperTest/HopperTestProposals/blob/13c3c4216f295a419cacf0547b059d128c2cd741/Pt-Br/hopper_test.md)). This is also the first version - the test has much to improve. Please, feel free to adapt it to your country and the reality of your people :).
 
 1. Does the company have a simple Code of Conduct?
 Clear rules defining what is offensive and what is not recommended at the workplace, for example:
