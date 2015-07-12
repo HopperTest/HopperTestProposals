@@ -19,12 +19,12 @@ Clear rules defining what is offensive and what is not recommended at the workpl
 	+   Does the company offer paternity leave other than the required by the law? (5 days in Brazil)
 	+   Does the company offer maternity leave for at least six months? (the law guarantees 120 days in Brazil)
  
-5. Is hiring and promotion free from coginitive bias? 
+4. Is hiring and promotion free from coginitive bias? 
 	+   Does the company have transparent hiring rules - with well defined goals and skills? 
 	+   Does the company have transparent rules to promotion - with well defined goals and skills? 
 	+   Does the company have transparent rules to jobs and salaries - with well defined goals and skills? 
 	+   More objective than subjective rules.
 
-6. Does company have education projects to teach harassers to live with diversity (as an alternative to firing him/her)?
+5. Does company have education projects to teach harassers to live with diversity (as an alternative to firing him/her)?
 
 
