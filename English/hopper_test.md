@@ -9,21 +9,21 @@ The questions bellow are the most significant problems that are seen in Brazil (
 
 1. Does the company have a simple Code of Conduct?
 Clear rules defining what is offensive and what is not recommended at the workplace, for example:
-+   pejoratives or derogatories comments about gender identity or sexual orientation
-+   comments associating technical capacity with a gender identity or sexual orientation
-+   discrimination, even if veiled, about religion, race, place of birth, social origin, etc.
+	+   pejoratives or derogatories comments about gender identity or sexual orientation
+	+   comments associating technical capacity with a gender identity or sexual orientation
+	+   discrimination, even if veiled, about religion, race, place of birth, social origin, etc.
 
 2. Does the company have a clear way to file complaints and address violations to the Code of Conduct?
 
 3. Is maternity/paternity a problem for the company?
-+   Does the company offer paternity leave other than the required by the law? (5 days in Brazil)
-+   Does the company offer maternity leave for at least six months? (the law guarantees 120 days in Brazil)
+	+   Does the company offer paternity leave other than the required by the law? (5 days in Brazil)
+	+   Does the company offer maternity leave for at least six months? (the law guarantees 120 days in Brazil)
  
 5. Is hiring and promotion free from coginitive bias? 
-Does the company have transparent hiring rules - with well defined goals and skills? 
-Does the company have transparent rules to promotion - with well defined goals and skills? 
-Does the company have transparent rules to jobs and salaries - with well defined goals and skills? 
-More objective than subjective rules.
+	+   Does the company have transparent hiring rules - with well defined goals and skills? 
+	+   Does the company have transparent rules to promotion - with well defined goals and skills? 
+	+   Does the company have transparent rules to jobs and salaries - with well defined goals and skills? 
+	+   More objective than subjective rules.
 
 6. Does company have education projects to teach harassers to live with diversity (as an alternative to firing him/her)?
 
